@@ -314,11 +314,8 @@ if __name__ == "__main__":
                     ReleaseKey(LEFT_CLICK)
                         # k = 0
 
-
-
             except:
                 pass
-
 
         # increment the number of frames
         num_frames += 1
